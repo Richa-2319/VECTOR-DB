@@ -1,4 +1,4 @@
-# VectorDB — Build a Vector Database from Scratch (Java + RAG + Ollama)
+# Build a Vector Database from Scratch (Java + RAG + Ollama)
 
 A fully working **Vector Database** built from scratch using **Java (backend)** with a web UI.
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms, plus a **RAG pipeline** powered by a local LLM via Ollama.
